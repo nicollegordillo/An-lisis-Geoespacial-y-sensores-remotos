@@ -1,5 +1,13 @@
 # Lab 4 — Cianobacteria en Atitlán y Amatitlán
 
+## Equipo de desarrollo
+
+- Daniel Oswaldo Juárez Herrera
+- Humberto Alexander de la Cruz
+- Nicolle Alexandra Gordillo
+
+## Descripción del proyecto
+
 Los lagos de Atitlán y Amatitlán vienen mostrando
 floraciones de cianobacteria, un riesgo para la salud pública y el turismo. Este
 proyecto usa imágenes satelitales Sentinel-2 (vía openEO) para monitorear ese
