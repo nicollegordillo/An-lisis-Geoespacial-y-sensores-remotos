@@ -15,6 +15,10 @@ fenómeno de forma remota: se calcula el índice NDCI/Chl-a (script CyanoLakes) 
 con NDVI y NDWI en 11 fechas por lago, y se analiza cómo varía la floración en el
 tiempo y en el espacio.
 
+## Informe
+
+https://docs.google.com/document/d/1h8zRgpkovIHd9CXIRsFOxNLwAYtTIMXxwG4_hdEo6iw/edit?usp=sharing
+
 ## Contenido
 
 - `01_descarga.py` — descarga las 22 escenas (11 fechas x 2 lagos) vía openEO a `datos/raw/`.
