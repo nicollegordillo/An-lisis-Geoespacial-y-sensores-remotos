@@ -26,8 +26,4 @@ https://docs.google.com/document/d/1h8zRgpkovIHd9CXIRsFOxNLwAYtTIMXxwG4_hdEo6iw/
 - `datos/` — imágenes crudas, índices derivados y geojson de cada lago.
 - `resultados/` — CSVs, figuras y mapas interactivos generados por el notebook.
 
-## Estado
-
-Completos: Ejercicios 1-6 (conexión API, descarga, cálculo de índices, análisis
-temporal, análisis espacial, correlación NDCI-NDVI/NDWI).
 
