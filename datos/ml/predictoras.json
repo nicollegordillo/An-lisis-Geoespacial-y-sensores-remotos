@@ -20,6 +20,24 @@
     "ratio_verde_azul",
     "ratio_nir_verde"
   ],
+  "predictoras_espectrales": [
+    "B02",
+    "B03",
+    "B07",
+    "B08",
+    "B8A",
+    "B11",
+    "B12",
+    "ndvi",
+    "ndwi",
+    "fai",
+    "dist_orilla_m",
+    "mes_sin",
+    "mes_cos",
+    "estacion_lluviosa",
+    "ratio_verde_azul",
+    "ratio_nir_verde"
+  ],
   "excluidas_por_fuga": [
     "chla",
     "ndci",
@@ -30,5 +48,5 @@
   "umbral_ndci": 0.2413,
   "max_por_fecha": 15000,
   "semilla": 42,
-  "archivo_dataset": "dataset_ml.csv.gz"
+  "archivo_dataset": "dataset_ml.parquet"
 }
