@@ -1,0 +1,34 @@
+{
+  "predictoras": [
+    "B02",
+    "B03",
+    "B07",
+    "B08",
+    "B8A",
+    "B11",
+    "B12",
+    "ndvi",
+    "ndwi",
+    "fai",
+    "dist_orilla_m",
+    "x_utm",
+    "y_utm",
+    "mes_sin",
+    "mes_cos",
+    "estacion_lluviosa",
+    "es_amatitlan",
+    "ratio_verde_azul",
+    "ratio_nir_verde"
+  ],
+  "excluidas_por_fuga": [
+    "chla",
+    "ndci",
+    "B04",
+    "B05"
+  ],
+  "umbral_chla": 10.0,
+  "umbral_ndci": 0.2413,
+  "max_por_fecha": 15000,
+  "semilla": 42,
+  "archivo_dataset": "dataset_ml.csv.gz"
+}
