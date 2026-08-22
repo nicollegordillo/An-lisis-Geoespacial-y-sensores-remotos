@@ -1,0 +1,4 @@
+modelo,mejor_f1_cv_submuestra,mejores_parametros
+Regresión Logística,0.8558,{'modelo__C': 10}
+Random Forest,0.9098,"{'n_estimators': 300, 'min_samples_leaf': 5, 'max_depth': 30}"
+XGBoost,0.9195,"{'subsample': 0.8, 'n_estimators': 300, 'max_depth': 6, 'learning_rate': 0.1}"
